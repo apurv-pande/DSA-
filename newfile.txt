@@ -1,0 +1,5 @@
+ERROR:root:invalid literal for int() with base 10: 'l'
+Traceback (most recent call last):
+  File "c:\Users\91940\OneDrive\Desktop\DSA _ 2027\day-8-secondhalf.py", line 16, in <module>
+    b = int(input("Enter another number : "))
+ValueError: invalid literal for int() with base 10: 'l'
